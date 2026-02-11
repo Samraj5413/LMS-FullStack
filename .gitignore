@@ -1,0 +1,22 @@
+# Secrets - DO NOT REMOVE
+application.properties
+.env
+
+# Java & Build Junk
+target/
+bin/
+*.class
+*.log
+
+# IDE Junk (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+.vscode/
+
+# Node & React Junk
+node_modules/
+dist/
