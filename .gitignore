@@ -1,5 +1,4 @@
 # Secrets - DO NOT REMOVE
-application.properties
 .env
 
 # Java & Build Junk
